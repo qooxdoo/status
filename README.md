@@ -1,5 +1,5 @@
-### Qooxdoo Framework Build Chain
-
+Qooxdoo Framework Build Chain |
+--- | ---
 @qooxdoo/framework NPM package | [![NPM Version][npm-framework-image]][npm-framework-url]
 Test Coverage | [![Test Coverage][coveralls-image]][coveralls-url]
 Travis Tests | [![Travis Build][travis-framework-image]][travis-framework-url]
