@@ -1,22 +1,17 @@
-**Qooxdoo Framework**            |                   
--------------------------------- | --- 
+Component                        | Status
+:------------------------------- | --- 
+**Qooxdoo Framework**            |            
 NPM package (@qooxdoo/framework) | [![NPM Version][npm-framework-image]][npm-framework-url]
 Test Coverage                    | [![Test Coverage][coveralls-image]][coveralls-url]
 Travis Tests                     | [![Travis Build][travis-framework-image]][travis-framework-url]
 Saucelab Tests                   | [![SauceLab Build][saucelab-image]][saucelab-url]
-
-**Qooxdoo Compiler & CLI**       |
--------------------------------- | --- 
+**Qooxdoo Compiler & CLI**       | 
 NPM package (@qooxdoo/compiler   | [![NPM Version][npm-compiler-image]][npm-compiler-url] 
 Compiler Build Status            | [![][travis-compiler-image]][travis-compiler-url]
-
-**Qooxdoo Package System**       | ---
--------------------------------- | --- 
+**Qooxdoo Package System**       | 
 Package Cache Build Status       | [![][package-cache-status-svg]](https://github.com/qooxdoo/package-cache)
 Package Browser Build Status.    | [![][packagebrowser-status-svg]](https://qooxdoo.org/qxl.packagebrowser)
-
 **Applications**                 | 
--------------------------------- | --- 
 API-Viewer                       | [![][apiviewer-status-svg]][apiviewer-app-url]
 
 
