@@ -1,26 +1,23 @@
-# Qooxdoo Framework Build Chain
+### Qooxdoo Framework Build Chain
 
-@qooxdoo/framework NPM package: [![NPM Version][npm-framework-image]][npm-framework-url]
+@qooxdoo/framework NPM package | [![NPM Version][npm-framework-image]][npm-framework-url]
+Test Coverage | [![Test Coverage][coveralls-image]][coveralls-url]
+Travis Tests | [![Travis Build][travis-framework-image]][travis-framework-url]
+Saucelab Tests | [![SauceLab Build][saucelab-image]][saucelab-url]
 
-Test Coverage: [![Test Coverage][coveralls-image]][coveralls-url]
-
-Travis Tests: [![Travis Build][travis-framework-image]][travis-framework-url]
-
-Saucelab Tests: [![SauceLab Build][saucelab-image]][saucelab-url]
-
-# Qooxdoo Compiler and Command Line Interface
+### Qooxdoo Compiler and Command Line Interface
 
 @qooxdoo/compiler NPM package: [![NPM Version][npm-compiler-image]][npm-compiler-url] 
 
 Compiler Build Status: [![][travis-compiler-image]][travis-compiler-url]
 
-# Qooxdoo Package System
+### Qooxdoo Package System
 
 Package Cache Build Status: [![][package-cache-status-svg]](https://github.com/qooxdoo/package-cache)
 
 Package Browser Build Status: [![][packagebrowser-status-svg]](https://qooxdoo.org/qxl.packagebrowser)
 
-# Applications
+### Applications
 
 API-Viewer: [![Build Status](https://travis-ci.org/qooxdoo/qxl.apiviewer.svg?branch=master)](https://travis-ci.org/qooxdoo/qxl.apiviewer)
 
