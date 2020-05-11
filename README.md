@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Qooxdoo Framework Build Chain
 
-You can use the [editor on GitHub](https://github.com/qooxdoo/status/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+@qooxdoo/framework NPM package: [![NPM Version][npm-framework-image]][npm-framework-url]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Test Coverage: [![Test Coverage][coveralls-image]][coveralls-url]
 
-### Markdown
+Travis Tests: [![Travis Build][travis-framework-image]][travis-framework-url]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Saucelab Tests: [![SauceLab Build][saucelab-image]][saucelab-url]
 
-```markdown
-Syntax highlighted code block
+# Qooxdoo Compiler and Command Line Interface
 
-# Header 1
-## Header 2
-### Header 3
+@qooxdoo/compiler NPM package: [![NPM Version][npm-compiler-image]][npm-compiler-url] 
 
-- Bulleted
-- List
+Compiler Build Status: [![][travis-compiler-image]][travis-compiler-url]
 
-1. Numbered
-2. List
+# Qooxdoo Package System
 
-**Bold** and _Italic_ and `Code` text
+Package Cache Build Status: [![][package-cache-status-svg]](https://github.com/qooxdoo/package-cache)
 
-[Link](url) and ![Image](src)
-```
+Package Browser Build Status: [![][packagebrowser-status-svg]](https://qooxdoo.org/qxl.packagebrowser)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Applications
 
-### Jekyll Themes
+API-Viewer: [![Build Status](https://travis-ci.org/qooxdoo/qxl.apiviewer.svg?branch=master)](https://travis-ci.org/qooxdoo/qxl.apiviewer)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qooxdoo/status/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[npm-framework-image]: https://badge.fury.io/js/%40qooxdoo%2Fframework.svg
+[npm-framework-url]: https://npmjs.org/package/@qooxdoo/framework
+[travis-framework-image]: https://travis-ci.org/qooxdoo/qooxdoo.svg?branch=master
+[travis-framework-url]: https://travis-ci.org/qooxdoo/qooxdoo
+[npm-compiler-image]: https://badge.fury.io/js/%40qooxdoo%2Fcompiler.svg
+[npm-compiler-url]: https://npmjs.org/package/@qooxdoo/compiler
+[travis-compiler-image]: https://travis-ci.org/qooxdoo/qooxdoo-compiler.svg?branch=master
+[travis-compiler-url]: https://travis-ci.org/qooxdoo/qooxdoo-compiler
+[coveralls-image]: https://coveralls.io/repos/github/qooxdoo/qooxdoo/badge.svg?branch=master 
+[coveralls-url]: https://coveralls.io/github/qooxdoo/qooxdoo?branch=master
+[saucelab-image]: https://saucelabs.com/buildstatus/qx-core
+[saucelab-url]: https://saucelabs.com/open_sauce/user/qx-core
+[package-cache-status-svg]: https://github.com/qooxdoo/package-cache/workflows/Update%20Package%20Cache/badge.svg
+[packagebrowser-status-svg]: https://github.com/qooxdoo/qxl.packagebrowser/workflows/Build%20and%20Deploy/badge.svg
