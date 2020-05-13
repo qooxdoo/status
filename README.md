@@ -13,6 +13,8 @@ Package Cache Build Status       | [![][package-cache-badge]](https://github.com
 Package Browser Build Status.    | [![][packagebrowser-badge]](https://qooxdoo.org/qxl.packagebrowser)
 **Applications**                 | 
 API-Viewer                       | [![][apiviewer-badge]][apiviewer-url]
+**Website**                      |
+Build and Deploy Website         | [![][website-badge]](https://qooxdoo.org)
 
 
 
@@ -32,3 +34,4 @@ API-Viewer                       | [![][apiviewer-badge]][apiviewer-url]
 [packagebrowser-badge]: https://github.com/qooxdoo/qxl.packagebrowser/workflows/Build%20and%20Deploy/badge.svg
 [apiviewer-url]: https://travis-ci.org/qooxdoo/qxl.apiviewer
 [apiviewer-badge]: https://travis-ci.org/qooxdoo/qxl.apiviewer.svg?branch=master
+[website-badge]: https://github.com/qooxdoo/website/workflows/Build%20and%20Deploy/badge.svg
