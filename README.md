@@ -8,13 +8,12 @@ Saucelab Tests                   | [![SauceLab Build][saucelab-badge]][saucelab-
 **Qooxdoo Compiler & CLI**       | 
 NPM package (@qooxdoo/compiler)  | [![NPM Version][npm-compiler-badge]][npm-compiler-url] 
 Compiler Tests & Deployment      | [![][travis-compiler-badge]][travis-compiler-url]
-**Qooxdoo Package System**       | 
-Package Cache Build Status       | [![][package-cache-badge]](https://github.com/qooxdoo/package-cache)
-Package Browser Build Status.    | [![][packagebrowser-badge]](https://qooxdoo.org/qxl.packagebrowser)
+Package Cache                    | [![][package-cache-badge]](https://github.com/qooxdoo/package-cache)
 **Applications**                 | 
-API-Viewer                       | [![][apiviewer-badge]][apiviewer-url]
+[API-Viewer][apiviewer-url]      | [![][apiviewer-badge]][apiviewer-workflow-url]
+[Package Browser][packagebrowser-url] | [![][packagebrowser-badge]][packagebrowser-workflow-url]
 **Website**                      |
-Build and Deploy Website         | [![][website-badge]](https://qooxdoo.org)
+Build and Deploy [Website](https://qooxdoo.org)| [![][website-badge]][website-workflow-url]
 
 
 
@@ -32,6 +31,10 @@ Build and Deploy Website         | [![][website-badge]](https://qooxdoo.org)
 [saucelab-url]: https://saucelabs.com/open_sauce/user/qx-core
 [package-cache-badge]: https://github.com/qooxdoo/package-cache/workflows/Update%20Package%20Cache/badge.svg
 [packagebrowser-badge]: https://github.com/qooxdoo/qxl.packagebrowser/workflows/Build%20and%20Deploy/badge.svg
-[apiviewer-url]: https://travis-ci.org/qooxdoo/qxl.apiviewer
+[packagebrowser-url]: https://qooxdoo.org/qxl.packagebrowser
+[packagebrowser-workflow-url]: https://github.com/qooxdoo/qxl.packagebrowser/actions
+[apiviewer-workflow-url]: https://travis-ci.org/qooxdoo/qxl.apiviewer
+[apiviewer-url]: https://qooxdoo.org/qxl.apiviewer
 [apiviewer-badge]: https://travis-ci.org/qooxdoo/qxl.apiviewer.svg?branch=master
 [website-badge]: https://github.com/qooxdoo/website/workflows/Build%20and%20Deploy/badge.svg
+[website-workflow-url]: https://github.com/qooxdoo/website/actions
