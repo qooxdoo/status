@@ -11,14 +11,14 @@ Compiler Tests & Deployment                                    | [![][travis-com
 Package Cache                                                  | [![][package-cache-badge]](https://github.com/qooxdoo/package-cache)
 **Applications**                                               | 
 [API-Viewer][apiviewer-url]                                    | [![][apiviewer-badge]][apiviewer-workflow-url]
-[Playground][https://qooxdoo.org/qxl.playground]               | 
-[Demobrowser][https://qooxdoo.org/qxl.demobrowser]             | [![][https://github.com/qooxdoo/qxl.demobrowser/workflows/Build%20and%20Deploy/badge.svg]][https://github.com/qooxdoo/qxl.demobrowser/actions]
-[Widgetbrowser][https://qooxdoo.org/qxl.widgebrowser]          |
-[Mobileshowcase][https://qooxdoo.org/qxl.mobileshowcase]       |
+[Playground](https://qooxdoo.org/qxl.playground)               | 
+[Demobrowser](https://qooxdoo.org/qxl.demobrowser)             | [![](https://github.com/qooxdoo/qxl.demobrowser/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/qooxdoo/qxl.demobrowser/actions)
+[Widgetbrowser](https://qooxdoo.org/qxl.widgebrowser)          |
+[Mobileshowcase](https://qooxdoo.org/qxl.mobileshowcase)       |
 [Package Browser][packagebrowser-url]                          | [![][packagebrowser-badge]][packagebrowser-workflow-url]
 **Tutorials**                                                  | 
-[Tutorial][https://qooxdoo.org/qxl.tutorial]                   |
-[Tweet Tutorial][https://github.com/qooxdoo/qxl.tweet-tutorial]|
+[Tutorial](https://qooxdoo.org/qxl.tutorial)                   |
+[Tweet Tutorial](https://github.com/qooxdoo/qxl.tweet-tutorial)|
 **Website**                                                    |
 Build and Deploy [Website](https://qooxdoo.org)                | [![][website-badge]][website-workflow-url]
 
@@ -48,9 +48,10 @@ Build and Deploy [Website](https://qooxdoo.org)                | [![][website-ba
 [packagebrowser-url]: https://qooxdoo.org/qxl.packagebrowser
 [packagebrowser-workflow-url]: https://github.com/qooxdoo/qxl.packagebrowser/actions
 
-[apiviewer-workflow-url]: https://travis-ci.org/qooxdoo/qxl.apiviewer
+[apiviewer-workflow-url]: https://github.com/qooxdoo/qxl.apiviewer/actions?query=workflow%3A%22Build+and+Deploy%22
 [apiviewer-url]: https://qooxdoo.org/qxl.apiviewer
-[apiviewer-badge]: https://travis-ci.org/qooxdoo/qxl.apiviewer.svg?branch=master
+[apiviewer-badge]: https://github.com/qooxdoo/qxl.apiviewer/workflows/Build%20and%20Deploy/badge.svg
 
 [website-badge]: https://github.com/qooxdoo/website/workflows/Build%20and%20Deploy/badge.svg
 [website-workflow-url]: https://github.com/qooxdoo/website/actions
+![Build and Deploy]()
