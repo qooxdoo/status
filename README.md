@@ -20,7 +20,7 @@ Package Cache                                                  | [![][package-ca
 [Tutorial](https://qooxdoo.org/qxl.tutorial)                   |
 [Tweet Tutorial](https://github.com/qooxdoo/qxl.tweet-tutorial)|
 **Website**                                                    |
-Build and Deploy [Website](https://qooxdoo.org)                | [![][website-badge]][website-workflow-url]
+[Website](https://qooxdoo.org)                                 | [![][website-badge]][website-workflow-url]
 
 
 
@@ -54,4 +54,3 @@ Build and Deploy [Website](https://qooxdoo.org)                | [![][website-ba
 
 [website-badge]: https://github.com/qooxdoo/website/workflows/Build%20and%20Deploy/badge.svg
 [website-workflow-url]: https://github.com/qooxdoo/website/actions
-![Build and Deploy]()
