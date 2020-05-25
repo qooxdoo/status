@@ -19,6 +19,8 @@ Package Cache                                                  | [![][package-ca
 **Tutorials**                                                  | 
 [Tutorial](https://qooxdoo.org/qxl.tutorial)                   | [![](https://github.com/qooxdoo/qxl.tutorial/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/qooxdoo/qxl.tutorial/actions)
 [Tweet Tutorial](https://github.com/qooxdoo/qxl.tweet-tutorial)| [![](https://github.com/qooxdoo/qxl.tweet-tutorial/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/qooxdoo/qxl.tweet-tutorial/actions)
+**Packages**                                                   | 
+[Dialog Widgets](https://github.com/qooxdoo/qxl.dialog)        | [![Build and Deploy](https://github.com/qooxdoo/qxl.dialog/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/qooxdoo/qxl.dialog/actions)
 **Website**                                                    |
 [Website](https://qooxdoo.org)                                 | [![][website-badge]][website-workflow-url]
 
