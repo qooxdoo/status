@@ -11,7 +11,7 @@ Compiler Tests & Deployment                                    | [![][travis-com
 Package Cache                                                  | [![][package-cache-badge]](https://github.com/qooxdoo/package-cache)
 **Applications**                                               | 
 [API-Viewer][apiviewer-url]                                    | [![][apiviewer-badge]][apiviewer-workflow-url]
-[Playground](https://qooxdoo.org/qxl.playground)               | 
+[Playground](https://qooxdoo.org/qxl.playground)               | [![](https://github.com/qooxdoo/qxl.playground/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/qooxdoo/qxl.playground/actions)
 [Demobrowser](https://qooxdoo.org/qxl.demobrowser)             | [![](https://github.com/qooxdoo/qxl.demobrowser/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/qooxdoo/qxl.demobrowser/actions)
 [Widgetbrowser](https://qooxdoo.org/qxl.widgebrowser)          |
 [Mobileshowcase](https://qooxdoo.org/qxl.mobileshowcase)       |
