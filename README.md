@@ -60,6 +60,7 @@ NPM Deployment                                                 | ![deploy qooxdo
 [website-badge]: https://github.com/qooxdoo/website/workflows/Build%20and%20Deploy/badge.svg
 [website-workflow-url]: https://github.com/qooxdoo/website/actions
 
-[iconfontviewer-badge]: https://github.com/qooxdoo/qxl.iconfontviewer/workflows/Build%20and%20Deploy/badge.svg
+
+[iconfontviewer-badge]: https://github.com/qooxdoo/qxl.iconfontviewer/workflows/Build,%20Test%20and%20Deploy/badge.svg
 [iconfontviewer-url]: https://qooxdoo.org/qxl.iconfontviewer
 [iconfontviewer-workflow-url]: https://github.com/qooxdoo/qxl.iconfontviewer/actions
