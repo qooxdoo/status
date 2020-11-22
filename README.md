@@ -18,6 +18,7 @@ NPM Deployment                                                 | ![deploy qooxdo
 [Widgetbrowser](https://qooxdoo.org/qxl.widgetbrowser)         | [![](https://github.com/qooxdoo/qxl.widgetbrowser/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/qooxdoo/qxl.widgetbrowser/actions)
 [Mobileshowcase](https://qooxdoo.org/qxl.mobileshowcase)       | [![](https://github.com/qooxdoo/qxl.mobileshowcase/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/qooxdoo/qxl.mobileshowcase/actions)
 [Package Browser][packagebrowser-url]                          | [![][packagebrowser-badge]][packagebrowser-workflow-url]
+[Icon Font Viewer][iconfontviewer-url]                         | [![][iconfontviewer-badge]][iconfontviewer-workflow-url]
 **Tutorials**                                                  | 
 [Tutorial](https://qooxdoo.org/qxl.tutorial)                   | [![](https://github.com/qooxdoo/qxl.tutorial/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/qooxdoo/qxl.tutorial/actions)
 [Tweet Tutorial](https://github.com/qooxdoo/qxl.tweet-tutorial)| [![](https://github.com/qooxdoo/qxl.tweet-tutorial/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/qooxdoo/qxl.tweet-tutorial/actions)
@@ -58,3 +59,7 @@ NPM Deployment                                                 | ![deploy qooxdo
 
 [website-badge]: https://github.com/qooxdoo/website/workflows/Build%20and%20Deploy/badge.svg
 [website-workflow-url]: https://github.com/qooxdoo/website/actions
+
+[iconfontviewer-badge]: https://github.com/qooxdoo/qxl.iconfontviewer/workflows/Build%20and%20Deploy/badge.svg
+[iconfontviewer-url]: https://qooxdoo.org/qxl.iconfontviewer
+[iconfontviewer-workflow-url]: https://github.com/qooxdoo/qxl.iconfontviewer/actions
