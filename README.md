@@ -2,8 +2,6 @@ Component                                                      | Status
 :----------------------------------------------                | --- 
 **Qooxdoo Framework**                                          |            
 NPM package (@qooxdoo/framework)                               | [![NPM Version][npm-framework-badge]][npm-framework-url]
-**Qooxdoo Compiler & CLI**                                     | 
-NPM package (@qooxdoo/compiler)                                | [![NPM Version][npm-compiler-badge]][npm-compiler-url] 
 Package Cache                                                  | [![][package-cache-badge]](https://github.com/qooxdoo/package-cache)
 **Deployment**                                                 |
 NPM Deployment                                                 | ![deploy qooxdoo](https://github.com/qooxdoo/deployment/workflows/deploy%20qooxdoo/badge.svg)
