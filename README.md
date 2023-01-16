@@ -3,8 +3,6 @@ Component                                                      | Status
 **Qooxdoo Framework**                                          |            
 NPM package (@qooxdoo/framework)                               | [![NPM Version][npm-framework-badge]][npm-framework-url]
 Package Cache                                                  | [![][package-cache-badge]](https://github.com/qooxdoo/package-cache)
-**Deployment**                                                 |
-NPM Deployment                                                 | ![deploy qooxdoo](https://github.com/qooxdoo/deployment/workflows/deploy%20qooxdoo/badge.svg)
 **Applications**                                               | 
 [API-Viewer][apiviewer-url]                                    | [![][apiviewer-badge]][apiviewer-workflow-url]
 [Playground](https://qooxdoo.org/qxl.playground)               | [![](https://github.com/qooxdoo/qxl.playground/workflows/Build%20and%20Deploy/badge.svg)](https://github.com/qooxdoo/qxl.playground/actions)
@@ -25,9 +23,6 @@ NPM Deployment                                                 | ![deploy qooxdo
 
 [npm-framework-badge]: https://badge.fury.io/js/%40qooxdoo%2Fframework.svg
 [npm-framework-url]: https://npmjs.org/package/@qooxdoo/framework
-
-[travis-framework-badge]: https://travis-ci.org/qooxdoo/qooxdoo.svg?branch=master
-[travis-framework-url]: https://travis-ci.org/qooxdoo/qooxdoo
 
 [npm-compiler-badge]: https://badge.fury.io/js/%40qooxdoo%2Fcompiler.svg
 [npm-compiler-url]: https://npmjs.org/package/@qooxdoo/compiler
